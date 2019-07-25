@@ -1,0 +1,9 @@
+Adding gitlab-demo.nccs.nasa.gov:4567/cjhong/container-scan:cs-built-by-runner to anchore engine for scanning.
+Waiting for analysis to complete...
+
+	Status: not_analyzed
+	Status: analyzing....................
+	Status: analyzed
+
+Analysis completed!
+
